@@ -48,7 +48,7 @@ header nav a:hover{
 /*filme principal*/
 .desenho-principal{
     font-size: 15px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-dragonz.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa-dragonz.jpg');
     
     height: 400px;
     background-size: cover;
